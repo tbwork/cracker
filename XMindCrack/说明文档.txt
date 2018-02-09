@@ -1,0 +1,2 @@
+1. 把XMindCrack.jar放到Xmind8的根目录下
+2. 修改根目录下的XMind.ini，添加：-javaagent:XMindCrack.jar
